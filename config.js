@@ -11,7 +11,6 @@ var config = {
         "and in you I found a love I no longer believed was real.",
         "I want all of you, forever, you and me, every day",
         "I Love You Goombooli",
-        "How? Loved you yesterday, love you still, always have, always will.",
         "You are My Girl, My Love, My Sun, My Moon and all My Stars.",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
