@@ -2,8 +2,17 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
+        "True Love Stories NEVER have Endings",
+        "I’d never lived before your love",
+        "Thinking of you keeps me awake,",
+        "Dreaming of you keeps me asleep,",
+        "Being with you keeps me alive.",
+        "You found parts of me I didn't know existed,",
+        "and in you I found a love I no longer believed was real.",
+        "I want all of you, forever, you and me, every day",
         "I Love You Goombooli",
-        "My Girl，My Love",
+        "How? Loved you yesterday, love you still, always have, always will.",
+        "You are My Girl, My Love, My Sun, My Moon and all My Stars.",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一
