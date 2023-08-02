@@ -2,7 +2,7 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "True Love Stories NEVER have Endings",
+        "True Love stories never have endings",
         "I’d never lived before your love",
         "Thinking of you keeps me awake,",
         "Dreaming of you keeps me asleep,",
